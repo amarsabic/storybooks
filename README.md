@@ -1,1 +1,1 @@
-# Node.js App From Scratch | Express, MongoDB & Google OAuth
+# Node.js, Express, MongoDB & Google OAuth
